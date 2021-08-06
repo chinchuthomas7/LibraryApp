@@ -11,7 +11,7 @@ var books = [
         title: 'The Alchemist',
         author: 'Paulo Coehlo',
         genre: 'Drama',
-        img: "paulo.jpg"
+        img: "Paulo.jpg"
     },
     {
         title: 'The thousand splendid suns',
